@@ -1,1 +1,2 @@
-# dog-breed-prediction-notebook
+# dog-vision
+Dog breed prediction
